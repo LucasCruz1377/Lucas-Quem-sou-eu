@@ -1,5 +1,5 @@
 # Lucas-Quem-sou-eu
-HI GUYS!! Eu sou a Lucas <br>
+HI GUYS!! Eu sou o Lucas <br>
 Estudante de ADS<br>
 👩‍💻 Estudo HTML,CSS,Python e aprendo por conta própria GML e GDScript 👩‍💻
 <div>
